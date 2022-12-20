@@ -15,7 +15,7 @@
     email: [
         {
             "email": "xxxxxxxx@outlook.com",
-            "verified": "true",
+            "verified": "true"
         }
     ],
     phone_number: [
@@ -34,7 +34,7 @@
         likesCount: "50",
         isOnline: "false",
         lastOnlineTime: "2022-12-01T07:28:13.964849Z",
-        lastUpdateTime : "2022-03-16T08:45:23.835625Z",
+        lastUpdateTime : "2022-03-16T08:45:23.835625Z"
       },
     ],
     links: [

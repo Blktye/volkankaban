@@ -1,0 +1,375 @@
+{
+    "links": [
+        {
+            "link_svg": "images/icons/github.svg",
+            "link_name": "GitHub",
+            "link_url": "https://github.com/",
+            "link_button": "button-github",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/vercel.svg",
+            "link_name": "Vercel",
+            "link_url": "https://vercel.com/",
+            "link_button": "button-vercel",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/figma.svg",
+            "link_name": "Figma Community",
+            "link_url": "https://figma.com/",
+            "link_button": "button-figma",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/coffee.svg",
+            "link_name": "Buy Me a Coffee",
+            "link_url": "https://buymeacoffee.com/",
+            "link_button": "button-coffee",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/twitter.svg",
+            "link_name": "Twitter",
+            "link_url": "https://twitter.com/sethcottle",
+            "link_button": "button-twit",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/instagram.svg",
+            "link_name": "Instagram",
+            "link_url": "https://instagram.com/sethcottle",
+            "link_button": "button-instagram",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/twitch.svg",
+            "link_name": "Twitch",
+            "link_url": "#/",
+            "link_button": "button-twitch",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/facebook.svg",
+            "link_name": "Find us on Facebook",
+            "link_url": "#/",
+            "link_button": "button-faceb",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/messenger.svg",
+            "link_name": "Chat on Messenger",
+            "link_url": "#/",
+            "link_button": "button-messenger",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/discord.svg",
+            "link_name": "Discord",
+            "link_url": "#/",
+            "link_button": "button-discord",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/linkedin.svg",
+            "link_name": "LinkedIn",
+            "link_url": "https://linkedin.com/in/",
+            "link_button": "button-linked",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/youtube.svg",
+            "link_name": "YouTube",
+            "link_url": "#/",
+            "link_button": "button-yt",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/snapchat.svg",
+            "link_name": "Snapchat",
+            "link_url": "#/",
+            "link_button": "button-snapchat",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/spotify.svg",
+            "link_name": "Listen on Spotify",
+            "link_url": "#",
+            "link_button": "button-spotify",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/spotify-green.svg",
+            "link_name": "Listen on Spotify",
+            "link_url": "#",
+            "link_button": "button-spotify-alt",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/youtube-music.svg",
+            "link_name": "Listen on YouTube Music",
+            "link_url": "#",
+            "link_button": "button-yt",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/apple-music.svg",
+            "link_name": "Listen on Apple Music",
+            "link_url": "#",
+            "link_button": "button-apple-music",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/apple-music-white.svg",
+            "link_name": "Listen on Apple Music",
+            "link_url": "#",
+            "link_button": "button-apple-music-alt",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/apple-podcasts.svg",
+            "link_name": "Listen on Apple Podcasts",
+            "link_url": "#",
+            "link_button": "button-apple-podcasts",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/apple-podcasts-white.svg",
+            "link_name": "Listen on Apple Podcasts",
+            "link_url": "#",
+            "link_button": "button-apple-podcasts-alt",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/google-podcasts.svg",
+            "link_name": "Listen on Google Podcasts",
+            "link_url": "#",
+            "link_button": "button-google-podcasts",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/substack.svg",
+            "link_name": "Subscribe on Substack",
+            "link_url": "#",
+            "link_button": "button-substack",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/clubhouse.svg",
+            "link_name": "Clubhouse",
+            "link_url": "#",
+            "link_button": "button-clubhouse",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/mastodon.svg",
+            "link_name": " Mastodon",
+            "link_url": "#",
+            "link_button": "button-mastodon",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/cashapp_dollar.svg",
+            "link_name": "CashApp",
+            "link_url": "https://cash.app/$",
+            "link_button": "button-cashapp",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/etsy.svg",
+            "link_name": "Etsy",
+            "link_url": "#/",
+            "link_button": "button-etsy",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/kickstarter.svg",
+            "link_name": "Kickstarter",
+            "link_url": "#/",
+            "link_button": "button-kickstarter",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/notion.svg",
+            "link_name": "Notion",
+            "link_url": "#/",
+            "link_button": "button-notion",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/producthunt.svg",
+            "link_name": "Product Hunt",
+            "link_url": "#/",
+            "link_button": "button-producthunt",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/appstore.svg",
+            "link_name": "Apple App Store",
+            "link_url": "#/",
+            "link_button": "button-appstore",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/playstore.svg",
+            "link_name": "Google Play Store",
+            "link_url": "#/",
+            "link_button": "button-playstore",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/trello.svg",
+            "link_name": "Trello",
+            "link_url": "#/",
+            "link_button": "button-trello",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/reddit.svg",
+            "link_name": "Reddit",
+            "link_url": "#/",
+            "link_button": "button-reddit",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/medium.svg",
+            "link_name": "Medium",
+            "link_url": "#/",
+            "link_button": "button-medium",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/pinterest.svg",
+            "link_name": "Pinterest",
+            "link_url": "#/",
+            "link_button": "button-pinterest",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/tiktok.svg",
+            "link_name": "TikTok",
+            "link_url": "https://tiktok.com/",
+            "link_button": "button-tiktok",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/paypal.svg",
+            "link_name": "PayPal",
+            "link_url": "https://paypal.com/paypalme/",
+            "link_button": "button-paypal",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/email.svg",
+            "link_name": "E-mail",
+            "link_url": "mailto:",
+            "link_button": "button-default",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/kit.svg",
+            "link_name": "Kit",
+            "link_url": "#/",
+            "link_button": "button-kit",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/telegram.svg",
+            "link_name": "Telegram",
+            "link_url": "#/",
+            "link_button": "button-telegram",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/tumblr.svg",
+            "link_name": "Tumblr",
+            "link_url": "#/",
+            "link_button": "button-tumb",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/steam.svg",
+            "link_name": "Steam",
+            "link_url": "#/",
+            "link_button": "button-steam",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/dev_to.svg",
+            "link_name": "dev.to",
+            "link_url": "#/",
+            "link_button": "button-dev-to",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/onlyfans.svg",
+            "link_name": "OnlyFans (18+)",
+            "link_url": "#/",
+            "link_button": "button-onlyfans",
+            "link_adult": "true"
+        },
+        {
+            "link_svg": "images/icons/vimeo.svg",
+            "link_name": "Vimeo",
+            "link_url": "#/",
+            "link_button": "button-vimeo",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/whatsapp.svg",
+            "link_name": "WhatsApp",
+            "link_url": "#/",
+            "link_button": "button-whatsapp",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/bandcamp.svg",
+            "link_name": "Bandcamp",
+            "link_url": "#/",
+            "link_button": "button-bandcamp",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/patreon.svg",
+            "link_name": "Patreon",
+            "link_url": "#/",
+            "link_button": "button-patreon",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/signal.svg",
+            "link_name": "Signal",
+            "link_url": "#/",
+            "link_button": "button-signal",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/venmo.svg",
+            "link_name": "Venmo",
+            "link_url": "https://venmo.com/u/",
+            "link_button": "button-venmo",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/web.svg",
+            "link_name": "My Website",
+            "link_url": "#/",
+            "link_button": "button-default",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/blog.svg",
+            "link_name": "My Blog",
+            "link_url": "#/",
+            "link_button": "button-default",
+            "link_adult": ""
+        },
+        {
+            "link_svg": "images/icons/vrchat.svg",
+            "link_name": "VRChat",
+            "link_url": "#/",
+            "link_button": "button-vrchat",
+            "link_adult": ""
+        }
+    ]
+}

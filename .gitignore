@@ -1,0 +1,43 @@
+# Directories & Files
+.idea
+.next
+.vercel
+.vscode
+node_modules
+build
+built
+coverage
+dist
+dist-ssr
+out
+tmp
+*.njsproj
+*.ntvs*
+*.pem
+*.sln
+*.suo
+*.sw?
+.pnp
+.pnp.*
+*.tsbuildinfo
+
+# Misc
+Thumbs.db
+.DS_Store
+
+# Security, env, config & db  
+-.env*.local
+-.env*.production
+-.env*.planetscale
+-.env*.prisma
+
+# Logs & Cache
+logs
+*.log
+.npm
+.eslintcache
+lerna-debug.log*
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*

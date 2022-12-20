@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@layer base {
+  body {
+    @apply min-h-screen bg-[url("https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1271&q=80")] bg-cover pt-6 text-slate-100;
+  }
+
+  #root {
+    @apply flex min-h-screen flex-col items-center;
+  }
+}
+
+@layer components {
+  .backdrop {
+    @apply backdrop-blur-lg backdrop-filter;
+  }
+}  
+
+body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  font-family:"Poppins", "sans-serif",
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.cover-pic, .contain-pic {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+.cover-pic {
+  object-fit: cover; }
+
+.contain-pic {
+  object-fit: contain; }
+
+.safe-filter {
+  filter: blur(20px);
+  opacity: 0.5; }

@@ -1,14 +1,14 @@
 {
-    "wallets": [
-        {
-            "wallet": "Bitcoin",
-            "wallet_short": "BTC",
-            "wallet_icon": "bitcoin.png"
-        },
-        {
-            "wallet": "Ethereum",
-            "wallet_short": "ETH",
-            "wallet_icon": "ethereum.png"
-        }
-    ]
+  "wallets": [
+    {
+      "wallet": "Bitcoin",
+      "wallet_short": "BTC",
+      "wallet_icon": "bitcoin.png"
+    },
+    {
+      "wallet": "Ethereum",
+      "wallet_short": "ETH",
+      "wallet_icon": "ethereum.png"
+    }
+  ]
 }

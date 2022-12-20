@@ -8,10 +8,15 @@ const Links = () => {
   const { links } = data;
   return (
     // background={link.background}
-    <div className="mt-32 flex-grow p-2 w-[350px]">
+    <div className="mt-32 w-[350px] flex-grow p-2">
       {/* profile links */}
       {links.map((link) => (
-        <DataLink key={link.id} name={link.title} href={link.url} icon={link.icon} />
+        <DataLink
+          key={link.id}
+          name={link.title}
+          href={link.url}
+          icon={link.icon}
+        />
       ))}
     </div>
   );

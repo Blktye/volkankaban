@@ -12,7 +12,7 @@ import {
 } from "react-icons/fa";
 
 const DataLink = ({ name, href, icon, background }) => {
-    const glassy = `bg-clip-padding backdrop-filter backdrop-blur-2xl bg-opacity-60 `;
+  const glassy = `bg-clip-padding backdrop-filter backdrop-blur-2xl bg-opacity-60 `;
   return (
     <div
       style={{ background: `${background}` }}

@@ -33,7 +33,7 @@ const Hero = () => {
           <MdVerified className="m-1 text-blue-400" />
         </h1>
         <p>{profile_location}</p>
-        <div className="text-2xl flex w-24 justify-around p-2 text-gray-200">
+        <div className="flex w-24 justify-around p-2 text-2xl text-gray-200">
           <FaQrcode />
           <FaShare />
         </div>

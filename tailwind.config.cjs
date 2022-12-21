@@ -4,6 +4,7 @@ module.exports = {
 	theme: {
 	},
 	plugins: [
+	  require('@tailwindcss/aspect-ratio'),
 	  require("prettier-plugin-tailwindcss"),
 	  require("tailwind-scrollbar-hide"),
 	],

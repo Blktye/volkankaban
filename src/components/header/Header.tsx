@@ -5,6 +5,7 @@ import { MdVerified } from "react-icons/md";
 import { data } from "../../data/volkankaban";
 import Socials from "../profile/Socials";
 
+
 function Header() {
   const {
     profile_name,
@@ -31,40 +32,39 @@ function Header() {
           alt={profile_name}
         />
 
-        <div class="px-6 py-4">
-          <div class="flex flex-col">
-            <div class="font-bold text-xl text-center hover:text-pink-500 hover:cursor-pointer">{profile_name} </div>
-            <div class="text-md text-center"><FaQrcode /> </div>
-            <div class="text-md text-center"><FaShare /></div>
-            <p class="text-md text-center">{username}</p>
-            <div class="flex flex-row justify-center">
+        <div className="px-6 py-4">
+          <div className="flex flex-col">
+            <div className="font-bold text-xl text-center hover:text-pink-500 hover:cursor-pointer">{profile_name} </div>
+            <div className="text-md text-center"><FaQrcode /> </div>
+            <div className="text-md text-center"><FaShare /></div>
+            <p className="text-md text-center">{username}</p>
+            <div className="flex flex-row justify-center">
               
               
-              <div class="text-md text-center">{user_location}</div>
+              <div className="text-md text-center">{user_location}</div>
             </div>
           </div>
-          <div class="flex flex-row justify-center font-semibold mx-auto my-4">
-            <div class="my-auto text-white bg-pink-500 hover:bg-pink-600 hover:cursor-pointer rounded-3xl py-2 px-4 mx-2">Follow</div>
-            <div class="my-auto text-white bg-pink-500 hover:bg-pink-600 hover:cursor-pointer rounded-3xl py-2 px-4 mx-2">Message</div>
+          <div className="flex flex-row justify-center font-semibold mx-auto my-4">
+            <div className="my-auto text-white bg-pink-500 hover:bg-pink-600 hover:cursor-pointer rounded-3xl py-2 px-4 mx-2">Follow</div>
+            <div className="my-auto text-white bg-pink-500 hover:bg-pink-600 hover:cursor-pointer rounded-3xl py-2 px-4 mx-2">Message</div>
           </div>
         
 
-        <div class="flex flex-row justify-center">
-        <img class="object-cover hover:cursor-pointer rounded-full h-12 w-12 m-3 p-0.5 border-2 border-pink-600" src="https://pbs.twimg.com/profile_images/1521539589818793986/k65Z2WvW_400x400.jpg" alt="{profile_name}" />
-        <img class="object-cover hover:cursor-pointer rounded-full h-12 w-12 m-3 p-0.5 border-2 border-pink-600" src="https://pbs.twimg.com/profile_images/1521539589818793986/k65Z2WvW_400x400.jpg" alt="{profile_name}" />
-        <img class="object-cover hover:cursor-pointer rounded-full h-12 w-12 m-3 p-0.5 border-2 border-pink-600" src="https://pbs.twimg.com/profile_images/1521539589818793986/k65Z2WvW_400x400.jpg" alt="{profile_name}" />
-        <img class="object-cover hover:cursor-pointer rounded-full h-12 w-12 m-3 p-0.5 border-2 border-pink-600" src="https://pbs.twimg.com/profile_images/1521539589818793986/k65Z2WvW_400x400.jpg" alt="{profile_name}" />
+        <div className="flex flex-row justify-center">
+        <img className="object-cover hover:cursor-pointer rounded-full h-12 w-12 m-3 p-0.5 border-2 border-pink-600" src="https://pbs.twimg.com/profile_images/1521539589818793986/k65Z2WvW_400x400.jpg" alt="{profile_name}" />
+        <img className="object-cover hover:cursor-pointer rounded-full h-12 w-12 m-3 p-0.5 border-2 border-pink-600" src="https://pbs.twimg.com/profile_images/1521539589818793986/k65Z2WvW_400x400.jpg" alt="{profile_name}" />
+        <img className="object-cover hover:cursor-pointer rounded-full h-12 w-12 m-3 p-0.5 border-2 border-pink-600" src="https://pbs.twimg.com/profile_images/1521539589818793986/k65Z2WvW_400x400.jpg" alt="{profile_name}" />
+        <img className="object-cover hover:cursor-pointer rounded-full h-12 w-12 m-3 p-0.5 border-2 border-pink-600" src="https://pbs.twimg.com/profile_images/1521539589818793986/k65Z2WvW_400x400.jpg" alt="{profile_name}" />
         </div>
         </div>
 
         <p className="text-center text-lg font-medium tracking-wide">{bio}</p>
 
-        <div class="grid grid-cols-3 gap-5">
-          <button
-            class="text-white rounded bg-blue-500 flex items-center justify-center bg-opacity-40 p-4 duration-300 ease-in-out hover:rotate-1 hover:scale-105">
+        <div className="grid grid-cols-3 gap-5">
+          <button className="text-white rounded bg-blue-500 flex items-center justify-center bg-opacity-40 p-4 duration-300 ease-in-out hover:rotate-1 hover:scale-105">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              class="h-6 w-6 mr-2"
+              className="h-6 w-6 mr-2"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
@@ -79,10 +79,10 @@ function Header() {
             LINKS
           </button>
           <button
-            class="text-white rounded bg-blue-500 flex items-center justify-center bg-opacity-40 p-4 duration-300 ease-in-out hover:rotate-1 hover:scale-105">
+            className="text-white rounded bg-blue-500 flex items-center justify-center bg-opacity-40 p-4 duration-300 ease-in-out hover:rotate-1 hover:scale-105">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              class="h-6 w-6 mr-2"
+              className="h-6 w-6 mr-2"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
@@ -96,10 +96,10 @@ function Header() {
             </svg>
             WALLET
           </button>
-          <button class="text-white rounded bg-blue-500 flex items-center justify-center bg-opacity-40 p-4 duration-300 ease-in-out hover:rotate-1 hover:scale-105">
+          <button className="text-white rounded bg-blue-500 flex items-center justify-center bg-opacity-40 p-4 duration-300 ease-in-out hover:rotate-1 hover:scale-105">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              class="h-6 w-6 mr-2"
+              className="h-6 w-6 mr-2"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
@@ -116,7 +116,19 @@ function Header() {
         </div>
 
       </div>
+
+
+
+
+
+      
     </header>
+
+
+
+
+
+
   );
 }
 

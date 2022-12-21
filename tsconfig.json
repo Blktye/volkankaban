@@ -17,5 +17,12 @@
     "jsx": "react-jsx"
   },
   "include": ["src"],
+  "exclude": [
+    "src/components/home",
+    "src/components/utils",
+    "src/components/videos",
+    "src/pages/404.tsx",
+    "src/components/pages"
+  ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

@@ -20,7 +20,7 @@ const Footer: NextPage = () => {
           className="hover:text-[#1877f2] transition duration-300"
           target="_blank"
           rel="noopener noreferrer"
-          href="https://www.facebook.com/volkankaban"
+          href="https://www.facebook.com/imvolkankaban"
         >
           <FaFacebook size={25} />
         </a>

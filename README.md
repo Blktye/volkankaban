@@ -16,21 +16,9 @@ Buy Me a Coffee [buymeacoffee.com/volkankaban](https://buymeacoffee.com/volkanka
 [<img align="left" alt="volkankaban | GitHub" width="22px" src="public/images/icons/github.svg" />][github]
 [<img align="left" alt="volkankaban | Linkedin" width="22px" src="public/images/icons/linkedin.svg" />][linkedin]<br>
 
-[github]: https://github.com/volkankaban
-[sponsor]: https://github.com/sponsors/volkankaban
-[paypal]: https://paypal.com/paypalme/volkankaban
-[venmo]: https://venmo.com/u/volkankaban
-[cashapp]: https://cash.app/$volkankaban
-[coinbase]: https://facebook.com/imvolkankaban
-[facebook]: https://facebook.com/imvolkankaban
-[instagram]: https://instagram.com/imvolkankaban
-[twitter]: https://twitter.com/imvolkankaban
-[youtube]: https://youtube.com/@volkankaban
-[linkedin]: https://linkedin.com/in/volkankaban
-
-#### ✨ Friends & Supporters
+#### ✨ Friends, Supporters & Contributors 
 [ Add Your Name/Business Below! ] <br />
-
+<a href="https://github.com/volkankaban/volkankaban/graphs/contributors" target="_blank"><img src="https://contrib.rocks/image?repo=volkankaban/volkankaban&columns=13" width="50"></a>
 <br />
 
 #### ⭐ GitHub Pages
@@ -60,3 +48,17 @@ Visitors count since 11/24/2022 <br />
 This project is open source and available under the [GNU General Public License v3.0](LICENSE).
 
 ![This is an image](public/images/profile.png)
+  
+[github]: https://github.com/volkankaban
+[sponsor]: https://github.com/sponsors/volkankaban
+[paypal]: https://paypal.com/paypalme/volkankaban
+[venmo]: https://venmo.com/u/volkankaban
+[cashapp]: https://cash.app/$volkankaban
+[coinbase]: https://facebook.com/imvolkankaban
+[facebook]: https://facebook.com/imvolkankaban
+[instagram]: https://instagram.com/imvolkankaban
+[twitter]: https://twitter.com/imvolkankaban
+[youtube]: https://youtube.com/@volkankaban
+[linkedin]: https://linkedin.com/in/volkankaban
+  
+  

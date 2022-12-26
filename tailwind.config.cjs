@@ -4,8 +4,11 @@ module.exports = {
 	theme: {
 	},
 	plugins: [
-	  require('@tailwindcss/aspect-ratio'),
-	  require("prettier-plugin-tailwindcss"),
-	  require("tailwind-scrollbar-hide"),
+		require(
+			"daisyui",
+			"@tailwindcss/aspect-ratio",
+			"prettier-plugin-tailwindcss",
+			"tailwind-scrollbar-hide"
+			),
 	],
-  };
+};

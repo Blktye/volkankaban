@@ -9,7 +9,7 @@ function Footer() {
   return (
     <footer className="backdrop mt-auto grid w-full place-items-center bg-blue-900 bg-opacity-50">
       <p className="py-3 text-center text-sm font-medium tracking-wide">
-        &copy; {year} {profile_name}
+        &copy; {year} {profile_name}, Theme by daisyUI
       </p>
     </footer>
   );

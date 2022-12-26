@@ -1,9 +1,10 @@
 # Directories & Files
 .idea
+.vscode
+
+node_modules
 .next
 .vercel
-.vscode
-node_modules
 build
 built
 coverage
@@ -21,15 +22,14 @@ tmp
 .pnp.*
 *.tsbuildinfo
 
+# Security
+-.env*.local
+!.env.example
+*.sql
+
 # Misc
 Thumbs.db
 .DS_Store
-
-# Security, env, config & db  
--.env*.local
--.env*.production
--.env*.planetscale
--.env*.prisma
 
 # Logs & Cache
 logs

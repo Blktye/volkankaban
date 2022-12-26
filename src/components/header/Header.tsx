@@ -27,14 +27,15 @@ function Header() {
           loop
         // playsinline=""
         ></video>
-        <img className="mx-auto -mt-20 aspect-square w-36 rounded-full border-2 border-blue-900"
+        <div className="online avatar mask mask-squircle bg-base-content bg-opacity-10 p-px mx-auto -mt-20 aspect-square w-36">
+        <img className="mask mask-squircle bg-base-content bg-opacity-10 p-px mx-auto aspect-square w-36"
           src={avatar}
           alt={profile_name}
         />
-
+</div>
         <div className="px-6 py-4">
           <div className="flex flex-col">
-            <div className="font-bold text-xl text-center hover:text-pink-500 hover:cursor-pointer">{profile_name} </div>
+            <div className="font-extrabold text-xl text-center hover:text-pink-500 hover:cursor-pointer">{profile_name} </div>
             <div className="text-md text-center"><FaQrcode /> </div>
             <div className="text-md text-center"><FaShare /></div>
             <p className="text-md text-center">{username}</p>

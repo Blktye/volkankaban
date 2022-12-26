@@ -19,7 +19,7 @@ function Header() {
   return (
     <header className="mx-auto w-11/12 max-w-2xl">
 
-      <div className="backdrop mb-8 flex flex-col gap-6 rounded-md bg-slate-50 bg-opacity-20 p-6">
+      <div className="backdrop mb-8 flex flex-col gap-6 rounded-md bg-slate-0 bg-opacity-0 p-6">
         <video className="flex h-[300px] w-screen flex-col items-center object-cover"
           src={cover}
           muted

@@ -13,7 +13,7 @@ function Main() {
           ))}
       </div>
 
-      <div className="bg-whitebackdrop mb-8 flex flex-col gap-6 rounded-md bg-slate-50 bg-opacity-20 p-6">
+      <div className="bg-whitebackdrop mb-8 flex flex-col gap-6 rounded-md bg-slate-0 bg-opacity-0 p-6">
         <div className="mx-auto max-w-2xl py-10 px-10 sm:py-0 sm:px-8 lg:max-w-7xl lg:px-8">
           <div className="h-96 carousel carousel-vertical rounded-box">
             <div className="carousel-item h-full">

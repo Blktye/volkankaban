@@ -10,7 +10,7 @@ const Navbar: NextPage = () => {
     >
       <Link href="/">
         <a className="h-full w-auto">
-          <img className="h-full w-auto" src="/logo.png" alt="" />
+          <img className="h-full w-auto" src="/public/profiles/{uuid}.webp" alt="{username}" />
         </a>
       </Link>
       <Link href="/search">

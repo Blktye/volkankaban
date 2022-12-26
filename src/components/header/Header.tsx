@@ -2,7 +2,7 @@ import React from "react";
 import { FaQrcode, FaShare } from "react-icons/fa";
 import { MdVerified } from "react-icons/md";
 
-import { data } from "../../data/volkankaban";
+import { data } from "../../data/template_profile";
 import Socials from "../profile/Socials";
 
 

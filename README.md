@@ -27,11 +27,17 @@ My GitHub Page [github.io/volkankaban](https://volkankaban.github.io/public) <br
 Verified Profiles [github.com/volkankaban](https://github.com/volkankaban) <br />
 Blogger Themes [github.com/blogger-themes](https://github.com/volkankaban/blogger-themes) <br />
 
-
 #### ⭐ GitHub Repos
 React Blogger [github.com/react-blogger](https://github.com/volkankaban/react-blogger) <br />
 Chrome Socialite Extension [github.com/chrome-socialite](https://github.com/volkankaban/chrome-socialite) <br />
 Chrome Copylinks Extension [github.com/chrome-copylinks](https://github.com/volkankaban/chrome-copylinks) <br />
+
+## 📀 Development!
+```bash
+npm install
+npm run build
+npm run dev
+```
 
 -----------------------------------------------------------------------------
 

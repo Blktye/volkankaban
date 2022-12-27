@@ -7,7 +7,7 @@
     "skipLibCheck": true,
     "esModuleInterop": false,
     "allowSyntheticDefaultImports": true,
-    "strict": true,
+    "strict": false,
     "forceConsistentCasingInFileNames": true,
     "module": "ESNext",
     "moduleResolution": "Node",
@@ -21,8 +21,13 @@
     "src/components/home",
     "src/components/utils",
     "src/components/videos",
+    "src/components/pages",
+    "src/components/profile",
+    "src/pages/post",
+    "src/pages/user",
     "src/pages/404.tsx",
-    "src/components/pages"
+    "src/pages/index.tsx",
+    "src/pages/_app.tsx"
   ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

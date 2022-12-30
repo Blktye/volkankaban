@@ -9,12 +9,12 @@ GitHub Sponsor [github.com/sponsors/volkankaban](https://github.com/sponsors/vol
 Buy Me a Coffee [buymeacoffee.com/volkankaban](https://buymeacoffee.com/volkankaban) <br />
 
 #### 📫 You can reach me with: <br />
-[<img align="left" alt="imvolkankaban | Twitter" width="22px" src="public/images/icons/twitter.svg" />][twitter]
-[<img align="left" alt="imvolkankaban | Facebook" width="22px" src="public/images/icons/facebook.svg" />][facebook]
-[<img align="left" alt="imvolkankaban | Instagram" width="22px" src="public/images/icons/instagram.svg" />][instagram]
-[<img align="left" alt="@volkankaban | YouTube" width="22px" src="public/images/icons/youtube.svg" />][youtube]
-[<img align="left" alt="volkankaban | GitHub" width="22px" src="public/images/icons/github.svg" />][github]
-[<img align="left" alt="volkankaban | Linkedin" width="22px" src="public/images/icons/linkedin.svg" />][linkedin]<br>
+[<img align="left" alt="imvolkankaban | Twitter" width="22px" src="https://raw.githubusercontent.com/volkankaban/volkankaban/main/public/images/icons/twitter.svg" />][twitter]
+[<img align="left" alt="imvolkankaban | Facebook" width="22px" src="https://raw.githubusercontent.com/volkankaban/volkankaban/main/public/images/icons/facebook.svg" />][facebook]
+[<img align="left" alt="imvolkankaban | Instagram" width="22px" src="https://raw.githubusercontent.com/volkankaban/volkankaban/main/public/images/icons/instagram.svg" />][instagram]
+[<img align="left" alt="@volkankaban | YouTube" width="22px" src="https://raw.githubusercontent.com/volkankaban/volkankaban/main/public/images/icons/youtube.svg" />][youtube]
+[<img align="left" alt="volkankaban | GitHub" width="22px" src="https://raw.githubusercontent.com/volkankaban/volkankaban/main/public/images/icons/github.svg" />][github]
+[<img align="left" alt="volkankaban | Linkedin" width="22px" src="https://raw.githubusercontent.com/volkankaban/volkankaban/main/public/images/icons/linkedin.svg" />][linkedin]<br>
 
 #### ✨ Friends, Supporters & Contributors 
 [ Add Your Name/Business Below! ] <br />
@@ -42,7 +42,7 @@ npm run dev
 -----------------------------------------------------------------------------
 
 <div align=center>
-<a href=#><img src="public/images/contributions.svg"></a> 
+<a href=#><img src="https://raw.githubusercontent.com/volkankaban/volkankaban/main/public/images/contributions.svg"></a> 
 
 <p align=center>
 Last Updated: 12/17/2022 00:25:37 (JST)<br />

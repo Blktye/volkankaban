@@ -21,16 +21,14 @@ Buy Me a Coffee [buymeacoffee.com/volkankaban](https://buymeacoffee.com/volkanka
 <a href="https://github.com/volkankaban/volkankaban/graphs/contributors" target="_blank"><img src="https://contrib.rocks/image?repo=volkankaban/volkankaban&columns=13" width="50"></a>
 <br />
 
-#### ⭐ GitHub Pages
+#### ⭐ GitHub Profile, Repos & Pages 
 GitHub Profile [github.com/volkankaban](https://github.com/volkankaban) <br />
-My GitHub Page [github.io/volkankaban](https://volkankaban.github.io/public) <br />
+GitHub Page [github.io/volkankaban](https://volkankaban.github.io/public) <br />
 Verified Profiles [github.com/volkankaban](https://github.com/volkankaban) <br />
 Blogger Themes [github.com/blogger-themes](https://github.com/volkankaban/blogger-themes) <br />
-
-#### ⭐ GitHub Repos
 React Blogger [github.com/react-blogger](https://github.com/volkankaban/react-blogger) <br />
-Chrome Socialite Extension [github.com/chrome-socialite](https://github.com/volkankaban/chrome-socialite) <br />
-Chrome Copylinks Extension [github.com/chrome-copylinks](https://github.com/volkankaban/chrome-copylinks) <br />
+Chrome Socialite [github.com/chrome-socialite](https://github.com/volkankaban/chrome-socialite) <br />
+Chrome Copylinks [github.com/chrome-copylinks](https://github.com/volkankaban/chrome-copylinks) <br />
 
 ## 📀 Development!
 ```bash
